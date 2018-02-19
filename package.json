@@ -4,19 +4,15 @@
   "version": "1.13.9",
   "description": "Customize, add, update and cooperate your authoring information in header comment",
   "author": {
-    "name": "Guan Gui",
-    "web": "http://guiguan.net"
+    "name": "andreaske76",
+    "web": "https://github.com/andreaske76"
   },
-  "contributors": [
+  "contributors":
     {
-      "name": "Guan Gui",
-      "web": "http://guiguan.net"
+      "name": "andreaske76",
+      "web": "https://github.com/andreaske76"
     },
-    {
-      "name": "Paul Joannon",
-      "web": "http://paulloz.com"
-    }
-  ],
+
   "keywords": [
     "author",
     "file header",
@@ -26,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guiguan/file-header.git"
+    "url": "git+https://github.com/andreaske76/file-header.git"
   },
   "bugs": {
-    "url": "https://github.com/guiguan/file-header/issues"
+    "url": "https://github.com/andreaske76/file-header.git/issues"
   },
-  "homepage": "https://github.com/guiguan/file-header#readme",
+  "homepage": "https://github.com/andreaske76/file-header.git#readme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

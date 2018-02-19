@@ -1,4 +1,5 @@
 {
+  "source.ansible": "Ansible.tmpl",
   "source.arm": "Clojure.tmpl",
   "source.c": "C.tmpl",
   "source.apex": "C.tmpl",
@@ -51,6 +52,7 @@
   "source.sql.ruby": "C.tmpl",
   "source.strings": "C.tmpl",
   "source.swift": "C.tmpl",
+  "source.tf": "ShellScript.tmpl",
   "source.toml": "ShellScript.tmpl",
   "source.ts": "C.tmpl",
   "source.vue": "HTML.tmpl",
